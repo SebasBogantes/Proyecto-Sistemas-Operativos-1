@@ -4,7 +4,8 @@ El Procesador Huffman es una herramienta de línea de comandos para la compresi�
 Requisitos previos
 
 Para utilizar el Procesador Huffman, asegúrate de tener instalado GCC (GNU Compiler Collection) en tu sistema. Esto es necesario para compilar el código fuente del proyecto.
-Compilación
+
+##Compilación
 
 ### Para compilar el Procesador Huffman, sigue estos pasos:
 Abre una terminal.
