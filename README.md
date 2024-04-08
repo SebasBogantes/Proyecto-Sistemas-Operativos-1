@@ -6,11 +6,10 @@ Requisitos previos
 Para utilizar el Procesador Huffman, asegúrate de tener instalado GCC (GNU Compiler Collection) en tu sistema. Esto es necesario para compilar el código fuente del proyecto.
 Compilación
 
-Para compilar el Procesador Huffman, sigue estos pasos:
-
-    Abre una terminal.
-    Navega hasta el directorio que contiene los archivos fuente (main.c, huff_encode.c, huff_decode.c).
-    Ejecuta el siguiente comando:
+### Para compilar el Procesador Huffman, sigue estos pasos:
+Abre una terminal.
+Navega hasta el directorio que contiene los archivos fuente (main.c, huff_encode.c, huff_decode.c).
+Ejecuta el siguiente comando:
 
 ```
 gcc -o huffman_processor main.c huff_encode.c huff_decode.c
